@@ -24,11 +24,14 @@ This research is developed in the Postgraduate in 3D Printing Architecture - 202
 _Not working on Mac due to several plugins needed._
 
 
-## Installation
-
+## Installation and Source Files
 
 
 * Open .gh file
+* * EXP_21_01_3dPrinter.gh
+* * EXP_22_01_Kuka.gh
+
+
 
 
 ## Units
