@@ -41,9 +41,6 @@ The system works in millimeters. It can be used in generic units.
 
 The basic Grasshopper workflow could be divided into the following basic steps:
 
-_TO BE INCLUDED: IMAGES OF ORGANIZED GH SCRIPT_
-
-
 1. Import network of tensors as curves (or generate them parametrically)
 2. Wall design
     1. Design wall 
@@ -56,9 +53,12 @@ _TO BE INCLUDED: IMAGES OF ORGANIZED GH SCRIPT_
 5. Get sliced printing path for walls and vaults
 6. Save G-Code
 
-In order to get the sliced printing path for vaults you will need to activate GH “data dam” and “buttons” under Kangaroo, Catenary Calculator, and following Data Dam
+In order to get the sliced printing path for vaults you will need to activate GH “data dam” and “buttons” under Kangaroo, Catenary Calculator, and following Data Dam.
+
+Working with the script examples:
 
 ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image2.png "image_tooltip")
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/workflow-example.gif "image_tooltip")
 
 
 ## Printers and Robots
