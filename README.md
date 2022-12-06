@@ -3,15 +3,13 @@
 This script allows designing a cantilever geometry ready to be 3d printed over tensors using as an input a network of tensors and getting as an output the g-code. 
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image1.png "image_tooltip")
 
 
+This research is developed in the Postgraduate in 3D Printing Architecture - 2022-2023. More information about the design process can be found at [blog.iaac.net](https://blog.iaac.net/) or in the Credits section.
 
-## Prerequisites
+
+## Prerequisites & Requirements
 
 
 
@@ -24,7 +22,7 @@ This script allows designing a cantilever geometry ready to be 3d printed over t
     * Heteroptera
     * TO BE COMPLETED
 
-Not working on Mac due to several plugins needed.
+_Not working on Mac due to several plugins needed._
 
 
 ## Installation
@@ -156,7 +154,7 @@ _Image credit: WASP_
 
 2022 3DPA / [iaac](https://github.com/IaaC)
 
-This research is a project of IAAC, Institute for Advanced Architecture of Catalonia developed in the Postgraduate in 3D Printing Architecture - 2022-2023 by the student(s) Nestor Beguiin, Paco Pioline, and Francisco Magnone Rienzi during the course 3DPA 22/23: Research with Oriol Carrasco and Ashkan Foroughi.
+This research is a project of IAAC, Institute for Advanced Architecture of Catalonia developed in the Postgraduate in 3D Printing Architecture - 2022-2023 by the student(s) Nestor Beguin, Paco Pioline, and Francisco Magnone Rienzi during the course 3DPA 22/23: Research with Oriol Carrasco and Ashkan Foroughi.
 
 
 ### Research Team
@@ -176,3 +174,7 @@ This project contains plugins and codes based on free open-source and proprietar
 * [Lunch Box](https://www.food4rhino.com/en/app/lunchbox) by Nathan Miller - License Type: Other
 * [Heteroptera](https://www.food4rhino.com/en/app/heteroptera) by Amin Bahrami - License Type: Other
 
+
+## License
+
+[MIT License](https://opensource.org/licenses/MIT)
