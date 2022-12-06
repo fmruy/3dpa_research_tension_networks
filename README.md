@@ -8,6 +8,9 @@ This script allows designing a cantilever geometry ready to be 3d printed over t
 
 This research is developed in the Postgraduate in 3D Printing Architecture - 2022-2023. More information about the design process can be found at [blog.iaac.net](https://blog.iaac.net/) or in the Credits section.
 
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image6.png "image_tooltip")
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image7.png "image_tooltip")
+
 
 ## Prerequisites & Requirements
 
@@ -55,9 +58,10 @@ The basic Grasshopper workflow could be divided into the following basic steps:
 
 In order to get the sliced printing path for vaults you will need to activate GH “data dam” and “buttons” under Kangaroo, Catenary Calculator, and following Data Dam.
 
-Working with the script examples:
-
 ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image2.png "image_tooltip")
+
+Some guides are included in the script to easily move between workflow steps.
+
 ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/workflow-example.gif "image_tooltip")
 
 
