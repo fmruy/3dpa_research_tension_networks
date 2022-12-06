@@ -3,7 +3,7 @@
 This script allows designing a cantilever geometry ready to be 3d printed over tensors using as an input a network of tensors and getting as an output the g-code. 
 
 
-![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/Image1.png "image_tooltip")
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image1.png "image_tooltip")
 
 
 This research is developed in the Postgraduate in 3D Printing Architecture - 2022-2023. More information about the design process can be found at [blog.iaac.net](https://blog.iaac.net/) or in the Credits section.
@@ -82,11 +82,6 @@ The final set of contoured curves can be used on the different printers of robot
 
 
 ### ABB or KUKA robots
-
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image6.png "image_tooltip")
 
