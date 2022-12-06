@@ -41,8 +41,7 @@ The system works in millimeters. It can be used in generic units.
 
 The basic Grasshopper workflow could be divided into the following basic steps:
 
-TO BE INCLUDED: IMAGES OF ORGANIZED GH SCRIPT
-
+_TO BE INCLUDED: IMAGES OF ORGANIZED GH SCRIPT_
 
 
 1. Import network of tensors as curves (or generate them parametrically)
@@ -50,10 +49,10 @@ TO BE INCLUDED: IMAGES OF ORGANIZED GH SCRIPT
     1. Design wall 
     2. Generate wall grid subdivision
 3. Vaults design
-    3. Design vaults 
-    4. Generate vault grid subdivision based on wall subdivision
+    1. Design vaults
+    2. Generate vault grid subdivision based on wall subdivision
 4. Redesign wall to improve vault support (optional)
-    5. Adapt wall top period based on vaults
+    1. Adapt wall top period based on vaults
 5. Get sliced printing path for walls and vaults
 6. Save G-Code
 
@@ -97,10 +96,6 @@ The final set of contoured curves can be used on the different printers of robot
 
 
 ### Wasp crane
-
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image5.png "image_tooltip")
