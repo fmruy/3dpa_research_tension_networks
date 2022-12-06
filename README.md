@@ -20,7 +20,6 @@ This research is developed in the Postgraduate in 3D Printing Architecture - 202
     * Anemone (Loop start and Loop end)
     * Lunch Box (Reverse Surface Direct, Sort Duplicated Curves)
     * Heteroptera
-    * TO BE COMPLETED
 
 _Not working on Mac due to several plugins needed._
 
@@ -59,27 +58,7 @@ TO BE INCLUDED: IMAGES OF ORGANIZED GH SCRIPT
 
 In order to get the sliced printing path for vaults you will need to activate GH “data dam” and “buttons” under Kangaroo, Catenary Calculator, and following Data Dam
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image2.png "image_tooltip")
 
 
 ## Printers and Robots
@@ -90,12 +69,7 @@ The final set of contoured curves can be used on the different printers of robot
 ### 3D Printer
 
 
-### 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image5.png "image_tooltip")
 
 
 
