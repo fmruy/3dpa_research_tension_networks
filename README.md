@@ -69,7 +69,7 @@ The final set of contoured curves can be used on the different printers of robot
 ### 3D Printer
 
 
-![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image5.png "image_tooltip")
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image3.png "image_tooltip")
 
 
 
@@ -83,7 +83,7 @@ The final set of contoured curves can be used on the different printers of robot
 
 ### ABB or KUKA robots
 
-![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image6.png "image_tooltip")
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image4.png "image_tooltip")
 
 
 
@@ -102,7 +102,7 @@ The final set of contoured curves can be used on the different printers of robot
 <p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image7.png "image_tooltip")
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image5.png "image_tooltip")
 
 
 _Image credit: WASP_
