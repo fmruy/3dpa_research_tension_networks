@@ -28,10 +28,8 @@ _Not working on Mac due to several plugins needed._
 
 
 * Open .gh file
-* * EXP_21_01_3dPrinter.gh
-* * EXP_22_01_Kuka.gh
-
-
+    * EXP_21_01_3dPrinter.gh
+    * EXP_22_01_Kuka.gh
 
 
 ## Units
