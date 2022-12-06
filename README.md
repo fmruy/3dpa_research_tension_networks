@@ -1,7 +1,6 @@
+### About
 
-**About**
-
-Designing a cantilever geometry ready to be 3d printed over tensors using as an input a network of tensors.
+This script allows designing a cantilever geometry ready to be 3d printed over tensors using as an input a network of tensors and getting as an output the g-code. 
 
 
 
@@ -10,8 +9,6 @@ Designing a cantilever geometry ready to be 3d printed over tensors using as an 
 
 ![alt_text](images/image1.png "image_tooltip")
 
-
-This script allows designing a cantilever geometry ready to be 3d printed over tensors using as an input a network of tensors and getting as an output the g-code 
 
 
 ## Prerequisites
@@ -174,14 +171,8 @@ This project contains plugins and codes based on free open-source and proprietar
 
 
 * [Kangaroo Physics](https://www.food4rhino.com/en/app/kangaroo-physics) by Daniel Piker - License Type: Proprietary
-
-    [Parakeet](https://www.food4rhino.com/en/app/parakeet) by Parakeet3d - License Type: Proprietary
-
+* [Parakeet](https://www.food4rhino.com/en/app/parakeet) by Parakeet3d - License Type: Proprietary
 * [Anemone](https://www.food4rhino.com/en/app/anemone) by Mateusz Zwierzycki - License Type: Other
 * [Lunch Box](https://www.food4rhino.com/en/app/lunchbox) by Nathan Miller - License Type: Other
 * [Heteroptera](https://www.food4rhino.com/en/app/heteroptera) by Amin Bahrami - License Type: Other
 
-
-### License
-
-[MIT License](https://opensource.org/licenses/MIT)
