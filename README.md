@@ -1,4 +1,4 @@
-### About
+## About
 
 This script allows designing a cantilever geometry ready to be 3d printed over tensors using as an input a network of tensors and getting as an output the g-code. 
 
