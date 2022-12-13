@@ -1,13 +1,13 @@
 ## About
 
-Tension networks using natural fibers as support for 3D printing with earth
+Tension networks using natural fibers as support for 3D printing with earth.
+
+This script allows designing a cantilever geometry ready to be 3d printed over tensors using as an input a network of tensors and getting as an output the g-code. 
 
 ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image7.jpg "image_tooltip")
 
 ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image6.jpg "image_tooltip")
 
-
-This script allows designing a cantilever geometry ready to be 3d printed over tensors using as an input a network of tensors and getting as an output the g-code. 
 
 ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image1.png "image_tooltip")
 
