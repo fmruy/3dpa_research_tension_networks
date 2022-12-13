@@ -78,7 +78,9 @@ The final set of contoured curves can be used on the different printers of robot
 ### 3D Printer
 
 
-# ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image3.png "image_tooltip")
+<!---
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image3.png "image_tooltip")
+-->
 
 * 3D printer
 * Cartridge, clay holder, and nozzle
@@ -89,7 +91,9 @@ The final set of contoured curves can be used on the different printers of robot
 
 ### ABB or KUKA robots
 
-# ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image4.png "image_tooltip")
+<!---
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image4.png "image_tooltip")
+-->
 
 * Robot
 * Cartridge, clay holder, and nozzle
@@ -100,8 +104,10 @@ The final set of contoured curves can be used on the different printers of robot
 
 ### Wasp crane
 
-# ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image5.png "image_tooltip")
-# _Image credit: WASP_
+<!---
+ ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image5.png "image_tooltip")
+ _Image credit: WASP_
+ -->
 
 * Crane 
 * Clay holder and nozzle
