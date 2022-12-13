@@ -1,15 +1,18 @@
 ## About
 
-This script allows designing a cantilever geometry ready to be 3d printed over tensors using as an input a network of tensors and getting as an output the g-code. 
+Tension networks using natural fibers as support for 3D printing with earth
 
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image7.jpg "image_tooltip")
+
+![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image6.jpg "image_tooltip")
+
+
+This script allows designing a cantilever geometry ready to be 3d printed over tensors using as an input a network of tensors and getting as an output the g-code. 
 
 ![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image1.png "image_tooltip")
 
-
 This research is developed in the Postgraduate in 3D Printing Architecture - 2022-2023. More information about the design process can be found at [blog.iaac.net](https://blog.iaac.net/) or in the Credits section.
 
-![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image6.jpg "image_tooltip")
-![alt_text](https://github.com/fmruy/3dpa_research/blob/main/images/image7.jpg "image_tooltip")
 
 
 ## Prerequisites & Requirements
